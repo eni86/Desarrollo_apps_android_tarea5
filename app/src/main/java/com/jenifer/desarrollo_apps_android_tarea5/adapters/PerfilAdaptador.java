@@ -11,9 +11,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.snackbar.Snackbar;
-import com.mauro.mascotas.R;
-import com.mauro.mascotas.classes.Mascota;
-import com.mauro.mascotas.classes.Perfil;
+import com.jenifer.desarrollo_de_apps_android_tarea5.R;
+import com.jenifer.desarrollo_de_apps_android_tarea5.classes.Mascota;
+import com.jenifer.desarrollo_de_apps_android_tarea5.classes.Perfil;
 
 import java.util.ArrayList;
 

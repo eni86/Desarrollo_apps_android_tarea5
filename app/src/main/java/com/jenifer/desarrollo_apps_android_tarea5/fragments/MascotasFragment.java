@@ -10,13 +10,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.mauro.mascotas.classes.Mascota;
-import com.mauro.mascotas.R;
-import com.mauro.mascotas.adapters.MascotaAdaptador;
-import com.mauro.mascotas.presentador.IMascotasFragmentPresenter;
-import com.mauro.mascotas.presentador.IRankingFragmentPresenter;
-import com.mauro.mascotas.presentador.MascotasFragmentPresenter;
-import com.mauro.mascotas.presentador.RankingFragmentPresenter;
+import com.jenifer.desarrollo_de_apps_android_tarea5.classes.Mascota;
+import com.jenifer.desarrollo_de_apps_android_tarea5.R;
+import com.jenifer.desarrollo_de_apps_android_tarea5.adapters.MascotaAdaptador;
+import com.jenifer.desarrollo_de_apps_android_tarea5.presentador.IMascotasFragmentPresenter;
+import com.jenifer.desarrollo_de_apps_android_tarea5.presentador.IRankingFragmentPresenter;
+import com.jenifer.desarrollo_de_apps_android_tarea5.presentador.MascotasFragmentPresenter;
+import com.jenifer.desarrollo_de_apps_android_tarea5.presentador.RankingFragmentPresenter;
 
 import java.util.ArrayList;
 

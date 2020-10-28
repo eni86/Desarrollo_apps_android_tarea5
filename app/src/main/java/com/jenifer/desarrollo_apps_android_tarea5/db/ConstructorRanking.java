@@ -3,8 +3,8 @@ package com.jenifer.desarrollo_de_apps_android_tarea5.db;
 import android.content.ContentValues;
 import android.content.Context;
 
-import com.mauro.mascotas.R;
-import com.mauro.mascotas.classes.Mascota;
+import com.jenifer.desarrollo_de_apps_android_tarea5.R;
+import com.jenifer.desarrollo_de_apps_android_tarea5.classes.Mascota;
 
 import java.util.ArrayList;
 

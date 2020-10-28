@@ -10,7 +10,7 @@ import android.util.Log;
 
 import androidx.annotation.Nullable;
 
-import com.mauro.mascotas.classes.Mascota;
+import com.jenifer.desarrollo_de_apps_android_tarea5.classes.Mascota;
 
 import java.util.ArrayList;
 

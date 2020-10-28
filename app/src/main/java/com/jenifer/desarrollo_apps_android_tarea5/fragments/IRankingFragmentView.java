@@ -1,7 +1,7 @@
 package com.jenifer.desarrollo_de_apps_android_tarea5.fragments;
 
-import com.mauro.mascotas.adapters.MascotaAdaptador;
-import com.mauro.mascotas.classes.Mascota;
+import com.jenifer.desarrollo_de_apps_android_tarea5.adapters.MascotaAdaptador;
+import com.jenifer.desarrollo_de_apps_android_tarea5.classes.Mascota;
 
 import java.util.ArrayList;
 
